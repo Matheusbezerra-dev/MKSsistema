@@ -12,5 +12,5 @@ export const HeaderContainer = styled.header`
 
 export const TitleHeader = styled.div`
   display: flex;
-
+  
 `;
